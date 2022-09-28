@@ -645,6 +645,7 @@ public class MyProgram
                 if (playerhp == 0)
                 {
                     Console.WriteLine("You have been defeated.");
+                    
                 }
             }
         }
